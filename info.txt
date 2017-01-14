@@ -1,0 +1,25 @@
+
+[1] Cartographer ROS Integration
+https://google-cartographer-ros.readthedocs.io/en/latest/index.html
+[2] Android Studio and ROS
+http://www.stratom.com/blog/2016/03/03/build-rosjava-library-sources-in-ros-w-android-studio
+[3] Information on Google’s Cartographer
+https://opensource.googleblog.com/2016/10/introducing-cartographer.html
+[4] Cartographer on GitHub
+https://github.com/googlecartographer
+[5] Getting Started with Cartographer 
+https://google-cartographer.readthedocs.io/en/latest/
+ 
+January 14th Schedule:
+The opening ceremony will begin at 9:00  in the SITE Rotunda.
+From 9:30 -10:30  the releasing of the problem and questions period will begin in STE 3041.
+From 10:30 - 17:00 your team will work on your development of solution & preparation of deliverable in STE 3041.
+ 
+January 15th Schedule:
+From 9:00 -10:00  you will prepare for your presentation and set up your table in SITE Rotunda
+Showcasing and presentations will begin at 10:00 and run until 12:00. PLEASE NOTE that presentations will be in random order (not team 1,2,3,4…) so make sure your team is well prepared at any time.
+The closing ceremony and awards will run from 12:30-13:30  and will be located in CBY C03.
+ 
+Your team will also be receiving lunch on Saturday, courtesy of the ESS! If you have any questions or concerns feel free to e-mail, competitions@uottawaess.ca.
+ 
+Look forward to seeing you and your team compete this weekend. Good Luck!
